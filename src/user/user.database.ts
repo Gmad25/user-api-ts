@@ -1,8 +1,8 @@
 import { hash } from "bcrypt";
-import * as database from "../../dbManager";
+import * as database from "../database/dbManager";
 import { User, UserToRegister, UserToUpdate } from "./user.model";
 import { v4 as generateId } from 'uuid'
-import { Database } from "db.model";
+import { Database } from "src/database/db.model";
 
 export const findAllUsers = async (): Promise<User[]> => {
     const db = await database.getDatabase();

@@ -1,4 +1,4 @@
-import { User } from "./src/user/user.model"
+import { User } from "../user/user.model"
 
 export type Database = {
     users: User[]

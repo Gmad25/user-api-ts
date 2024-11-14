@@ -1,0 +1,22 @@
+{
+    "users": [
+        {
+            "id": "459dc551-2cc7-433f-bcef-d2965c9ec276",
+            "email": "eo@gmail.com",
+            "password": "$2b$10$Dquf0ChEH2OVuzG4SZpn4egJR4vmxcsbZN/fdHvZTfxVP20oJXkVu",
+            "echo": "hello"
+        },
+        {
+            "id": "1c14ad89-0dd8-4173-88c8-b1f12dbf9591",
+            "username": "example1",
+            "email": "example1@gmail.com",
+            "password": "$2b$10$uvxHNfW/11FQ7ya5t.tRf.QReiqWWr0Fot41sxZGgtWxKEYXR3yJS"
+        },
+        {
+            "id": "9bafd80e-b96d-4aee-a5f5-08d711a52237",
+            "username": "example12",
+            "email": "exampl2e@gmail.com",
+            "password": "$2b$10$jj56XNLEKyS.BwEsehTyMujuW9Q.w4/gjvCviP4ygyP7wzpbeHXfS"
+        }
+    ]
+}
